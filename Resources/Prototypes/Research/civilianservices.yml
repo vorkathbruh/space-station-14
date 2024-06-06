@@ -224,7 +224,7 @@
     sprite: Objects/Specific/Chemistry/beaker_bluespace.rsi
     state: beakerbluespace
   discipline: CivilianServices
-  tier: 3
+  tier: 2
   cost: 10000
   recipeUnlocks:
   - BluespaceBeaker
