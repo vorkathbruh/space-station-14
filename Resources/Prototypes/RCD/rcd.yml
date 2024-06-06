@@ -93,7 +93,7 @@
   sprite: /Textures/Interface/Radial/RCD/grille.png
   mode: ConstructObject
   prototype: Grille
-  cost: 4
+  cost: 2
   delay: 2
   collisionMask: FullTileMask
   rotation: Fixed
