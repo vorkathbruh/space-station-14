@@ -158,10 +158,10 @@
 
 - type: entity
   parent: BaseCMOStealObjective
-  id: CMOCrewMonitorStealObjective
+  id: CMOHudMedSecStealObjective
   components:
   - type: StealCondition
-    stealGroup: HandheldCrewMonitor
+    stealGroup: ClothingEyesHudMedSec
 
 ## rd
 

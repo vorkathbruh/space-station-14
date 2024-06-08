@@ -76,17 +76,6 @@
   objectType: Item
 
 - type: construction
-  name: medsec hud
-  id: ClothingEyesHudMedSec
-  graph: HudMedSec
-  startNode: start
-  targetNode: medsecHud
-  category: construction-category-clothing
-  description: Two huds joined by arms
-  icon: { sprite: Clothing/Eyes/Hud/medsec.rsi, state: icon }
-  objectType: Item
-
-- type: construction
   name: ducky slippers
   id: ClothingShoeSlippersDuck
   graph: ClothingShoeSlippersDuck
