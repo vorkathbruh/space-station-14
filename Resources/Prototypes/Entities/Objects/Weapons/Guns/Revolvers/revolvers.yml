@@ -120,7 +120,7 @@
     sprite: Objects/Weapons/Guns/Revolvers/python.rsi
   - type: Gun
     selectedMode: SemiAuto
-    fireRate: 2
+    fireRate: 3
     availableModes:
     - SemiAuto
     soundGunshot:
