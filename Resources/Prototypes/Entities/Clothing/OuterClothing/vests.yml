@@ -11,8 +11,8 @@
   - type: Armor
     modifiers:
       coefficients:
-        Blunt: 0.6 #ballistic plates = better protection
-        Slash: 0.6
+        Blunt: 0.7 #Nerf to make web vest more vulnerable to truncheon and knives.
+        Slash: 0.7
         Piercing: 0.3
         Heat: 0.9
   - type: ExplosionResistance
