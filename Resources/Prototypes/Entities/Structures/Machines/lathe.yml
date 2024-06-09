@@ -743,6 +743,7 @@
       - WeaponDisablerPractice
       - WeaponLaserCarbinePractice
       - Zipties
+      - Truncheon
     dynamicRecipes:
       - BoxBeanbag
       - BoxShotgunIncendiary
@@ -785,7 +786,6 @@
       - SpeedLoaderMagnumUranium
       - TelescopicShield
       - TimerTrigger
-      - Truncheon
       - VoiceTrigger
       - WeaponAdvancedLaser
       - WeaponDisabler

@@ -92,7 +92,6 @@
   tier: 1
   cost: 8000
   recipeUnlocks:
-  - Truncheon
   - TelescopicShield
   - HoloprojectorSecurity
   - WeaponDisablerSMG
